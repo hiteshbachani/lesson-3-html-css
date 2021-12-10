@@ -9,6 +9,8 @@ body {
 
 
 .container {
+    margin: auto;
     padding-left: 2rem;
     padding-right: 2rem;
+    max-width: 600px;
 }
