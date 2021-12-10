@@ -6,3 +6,10 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+
+
+.conatiner-fluid{
+    padding-left:1rem;
+    padding-right:1rem;
+}
