@@ -9,7 +9,13 @@ body {
 
 
 
-.container-fluid{
-    padding-left:1rem;
-    padding-right:1rem;
+.container-fluid {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+.centeredcontainer{
+    max-width: 600px;
+    margin: auto;
 }
