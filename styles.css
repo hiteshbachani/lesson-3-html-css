@@ -14,3 +14,12 @@ body {
     margin: auto;
     max-width: 600px; 
 }
+
+
+:root {
+    --primary-color: #c026d3;
+}
+
+.link {
+    text-decoration: none;
+}
