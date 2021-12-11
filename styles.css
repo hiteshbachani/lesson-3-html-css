@@ -22,4 +22,11 @@ body {
 
 .link {
     text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.primary-link {
+    background-color: var(--primary-color);
+    border-radius: 0.5rem;
+    color: white;
 }
