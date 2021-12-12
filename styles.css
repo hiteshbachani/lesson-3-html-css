@@ -83,16 +83,12 @@ hr{
 
 
 .hero{
-    padding: 2rem
+    padding: 2rem;
+    text-align: center;
 }
 
 .hero .hero-img{
     margin: auto;
     max-width: 350px;
     display: block;
-}
-
-
-.hero .hero-img .hero-heading{
-    text-align: center;
 }
