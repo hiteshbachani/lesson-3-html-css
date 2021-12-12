@@ -91,3 +91,8 @@ hr{
     max-width: 350px;
     display: block;
 }
+
+
+.hero .hero-img .hero-heading{
+    text-align: center;
+}
