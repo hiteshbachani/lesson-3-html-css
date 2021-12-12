@@ -132,6 +132,12 @@ hr{
     text-align: center;
 }
 
+.footer .footer-heading{
+    font-size: large;
+    font-weight: bold;
+}
+
 .footer ul{
     padding-inline-start: 0px;
 }
+
