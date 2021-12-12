@@ -22,6 +22,7 @@ hr{
 
 :root {
     --primary-color: #059669;
+    --dark-grey: #6b7280;
 }
 
 .link {
@@ -91,4 +92,14 @@ hr{
     margin: auto;
     max-width: 350px;
     display: block;
+}
+
+
+.hero .hero-heading{
+    padding-top: 1rem;
+    color:var(--dark-grey)
+}
+
+.hero .hero-heading .heading-inverted{
+    color: var(--primary-color);
 }
