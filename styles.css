@@ -91,7 +91,7 @@ hr{
 .hero .hero-img{
     margin: auto;
     max-width: 350px;
-    display: grid;
+    display: block;
 }
 
 
