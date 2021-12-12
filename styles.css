@@ -23,6 +23,7 @@ hr{
 :root {
     --primary-color: #059669;
     --dark-grey: #6b7280;
+    --off-white: #f3f4f6;
 }
 
 .link {
@@ -111,4 +112,8 @@ hr{
 
 .section h1{
     text-align: center;
+}
+
+.section .ow{
+    background-color: var(--off-white);
 }
