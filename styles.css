@@ -114,6 +114,7 @@ hr{
     margin: 2rem 0rem;
     text-align: center;
     border-radius: 1rem;
+    color: var(--dark-grey);
 }
 
 .section h1{
