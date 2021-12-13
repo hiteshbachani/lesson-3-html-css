@@ -149,3 +149,9 @@ hr{
 .footer .link{
     color: white;
 }
+
+
+
+.section p{
+    padding-bottom: 1rem;
+}
